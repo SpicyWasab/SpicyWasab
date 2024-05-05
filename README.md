@@ -9,7 +9,7 @@ I've been using Linux as my daily-driver for 4 years. I started during the lockd
 
 (ironically, I'm not fond of the modified GNOME Ubuntu uses, but I daily drive GNOME as a Desktop Environment, with almost no extension at all)
 
-*I was always really interested in space btw... may want try to become an astronaut one day 👀*
+*I was always really interested in space btw... I may try to become an astronaut in a few decades 👀*
 
 ## Languages and Tools
 
