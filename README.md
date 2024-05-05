@@ -3,9 +3,13 @@
 
 ## My backstory
 I started to learn code with C at the age of 11 using only online ressources and an old-crappy Android tablet.
-It was a good introduction to low level programming and how a computer works. I then moved to other languages (for instance, a quick introduction to Java), but I really started to settle 2 years later with Javascript, for web development but also Discord bots using NodeJS.
+It was a good introduction to low level programming and how computers work. I then moved to other languages (for instance, a quick introduction to Java, C++...), but I really started to settle 2 years later with Javascript, for web development purposes as well as creating Discord bots using NodeJS.
 
-I've been using Linux as my daily-driver for 4 years as well. I started during the lockdown due to the global pandemic. I wasn't fond of the graphical environment the default Ubuntu flavour ships with, so I started with Linux Mint, another Ubuntu flavour that uses Cinnamon. After a while I tried other distros, but nowadays I use Arch Linux. I really enjoyed using Fedora Silverblue though, I really like the whole "immutable distros" trend, and I apply some of their principles on my Arch install to make it more robust.
+I've been using Linux as my daily-driver for 4 years. I started during the lockdown due to the global pandemic. I wasn't fond of the graphical environment the default Ubuntu flavour ships with, so I started with Linux Mint, another Ubuntu flavour that uses Cinnamon, a Windows-like environment. After a while I tried a lot of other distros, but nowadays I use Arch Linux. I really enjoyed using Fedora Silverblue though, I really like the whole "immutable distros" trend, and I apply some of their principles on my Arch install to make it more robust.
+
+(ironically, I'm not fond of the modified GNOME Ubuntu uses, but I daily drive GNOME as a Desktop Environment, with almost no extension at all)
+
+*I was always really interested in space btw... may want try to become an astronaut one day 👀*
 
 ## Languages and Tools
 
